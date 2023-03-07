@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODOListJava</string>
+    <string name='counter'> This is a counter</string>
+</resources>
